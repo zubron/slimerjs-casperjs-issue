@@ -1,0 +1,24 @@
+{
+  "name": "slimerjs-casperjs-issue",
+  "version": "0.0.1",
+  "description": "Repo which demonstrates the SlimerJS prioritising node_modules over require.paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubron/slimerjs-casperjs-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubron/slimerjs-casperjs-issue/issues"
+  },
+  "homepage": "https://github.com/zubron/slimerjs-casperjs-issue#readme",
+  "dependencies": {
+    "casperjs": "^1.1.3",
+    "events": "^1.1.1",
+    "slimerjs": "^0.10.3"
+  }
+}
